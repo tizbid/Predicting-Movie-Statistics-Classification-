@@ -4,7 +4,7 @@
 
 This repository contains Revenue prediction and Budget classification of Movie statistics.
 
-![movie image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fidealbloghub.com%2Fwp-content%2Fuploads%2F2020%2F02%2FTop-best-Android-Apps-to-watch-and-stream-free-movies-online.jpg&imgrefurl=https%3A%2F%2Fidealbloghub.com%2F5-movie-apps-for-streaming-free-movies-on-android%2F&tbnid=wP-q2TB8MT1qZM&vet=12ahUKEwi7wpT3mbDrAhXggaQKHewCAHkQMygvegUIARC6Ag..i&docid=sC2_wz5YHpguLM&w=740&h=416&itg=1&q=movie&ved=2ahUKEwi7wpT3mbDrAhXggaQKHewCAHkQMygvegUIARC6Ag)
+![movie image](https://phenixcitylibrary.com/wp-content/uploads/2017/06/Movie-Night.jpg)
 
 ### Highlights
   * Data preprocessing
